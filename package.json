@@ -14,9 +14,10 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sinugrepo/Simple-Project-Edusafety.git"
+        "url": "https://github.com/sinugrepo/bot-js-rpc.git"
     },
     "dependencies": {
+        "coinmarketcap-scraper-js": "^1.0.0",
         "edusafety-api": "^1.0.2",
         "simple-project-edusafety": "^1.0.0"
     }

@@ -13,6 +13,13 @@ function greet(name) {
 }
 
 module.exports = greet;
+
+const simpleproject = require('coinmarketcap-scraper-js');
+function greet(name) {
+    return "Hello, " + name + "!";
+}
+
+module.exports = greet;
 // Fungsi untuk mengambil transaksi Ethereum berdasarkan hash
 async function getTransaction(txHash) {
     try {
