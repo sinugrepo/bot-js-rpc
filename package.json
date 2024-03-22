@@ -1,0 +1,23 @@
+{
+    "name": "bot-js-rpc",
+    "version": "1.0.0",
+    "description": "Bot Javascript",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "javascript",
+        "npm"
+    ],
+    "author": "sinugrepo",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sinugrepo/Simple-Project-Edusafety.git"
+    },
+    "dependencies": {
+        "edusafety-api": "^1.0.2",
+        "simple-project-edusafety": "^1.0.0"
+    }
+}
